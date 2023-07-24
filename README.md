@@ -18,10 +18,10 @@
 * IS_SUCCESSFUL—Was the money used effectively
 
 
-I did 80 hiddennodes1, 30 hiddennodes2, and 1 hiddennodes3
+### I did 80 hiddennodes1, 30 hiddennodes2, and 1 hiddennodes3
 
 
-I put the cutoff value of the application types to <100 and the cutoff value for the classifications to <100 for the first optimization test.
+### I put the cutoff value of the application types to <100 and the cutoff value for the classifications to <100 for the first optimization test.
           Optimization Test #2 I put put the cutoff value of the application types to <100 and the cutoff value for the classifications to <400 for the first optimization test.
           Optimization Test #3 I put put the cutoff value of the application types to <100 and the cutoff value for the classifications to <800 for the first optimization test.
-I was not able to achieve the target model performance as I only got 72% to 73% accuracy. I was attempting to achieve and accuracy of 75%. My only conclusion is that I probably needed to clean up the data given to me more.
+### I was not able to achieve the target model performance as I only got 72% to 73% accuracy. I was attempting to achieve and accuracy of 75%. My only conclusion is that I probably needed to clean up the data given to me more.
